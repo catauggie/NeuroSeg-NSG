@@ -1,6 +1,6 @@
-# U-Net Model for Live/Dead Cell Segmentation on Trypan Blue-Stained Images
+# NeuroSeg-NSGA: Optimizing U-Net for neuron segmentation in unstained microscopy images using NSGA-II
 
-This repository contains code and configurations for training a U-Net model to segment live and dead cells on trypan blue–stained images, commonly used in biomedical image analysis. The model focuses on accurately identifying and distinguishing cells based on their staining properties in bright-field images, a crucial step in many biological experiments.
+This repository provides the code and configuration files for training a U-Net model designed to segment live and dead cells in unstained images. Masks were obtained from images with trypan blue staining - a widely used in biomedical research to assess cell viability. 
 
 ## Contents:
 
